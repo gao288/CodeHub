@@ -12,9 +12,9 @@ class App extends Component {
                 </ToolBar>
                 <div style={{width:'50px',height:'100%'}}>
             
-                    <ControlColumn>
+                    {/* <ControlColumn>
                         
-                    </ControlColumn>
+                    </ControlColumn> */}
                 </div>
 
             </body>
